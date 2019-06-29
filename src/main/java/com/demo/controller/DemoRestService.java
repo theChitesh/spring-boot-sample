@@ -18,7 +18,7 @@ public class DemoRestService {
 		
 		String value = service.testService();
 		System.out.println(value);
-		return "Hello Anusha, Spring Boot is working";
+		return "Hello there, Spring Boot is working";
 	}
 
 }
